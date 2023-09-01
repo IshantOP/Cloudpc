@@ -12,7 +12,7 @@ jobs:
     runs-on: windows-latest
 
 
-    It steps:
+    steps:
 
     - name: Download
 
